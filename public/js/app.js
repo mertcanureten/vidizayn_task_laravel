@@ -2085,6 +2085,8 @@ jquery__WEBPACK_IMPORTED_MODULE_0___default()(function () {
     }, {
       "data": "password"
     }, {
+      "data": "birth_date"
+    }, {
       "data": "is_deleted"
     }]
   });

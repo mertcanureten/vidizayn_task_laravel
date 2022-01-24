@@ -14,6 +14,7 @@ $(function () {
         { "data" : "full_name" },
         { "data" : "email" },
         { "data" : "password" },
+        { "data" : "birth_date" },
         { "data" : "is_deleted" }
            ]
     });
